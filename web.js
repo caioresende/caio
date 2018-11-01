@@ -11,7 +11,7 @@ keystone.init({
   'view engine': 'jade',
   
   'auto update': true,
-  'mongo': process.env.MONGODB_URI || 'mongodb://localhost/caio',
+  'mongo': process.env.MONGODB_URI || 'mongodb://localhost/local',
   
   'session': true,
   'auth': true,
