@@ -1,0 +1,28 @@
+{
+  "name": "caio",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "node web.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caioresende/caio.git"
+  },
+  "author": "caio resende",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caioresende/caio/issues"
+  },
+  "homepage": "https://github.com/caioresende/caio#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "jade": "^1.11.0",
+    "keystone": "^4.0.0",
+    "node-sass": "^4.9.3",
+    "node-sass-middleware": "^0.11.0",
+    "siema": "^1.5.1",
+    "underscore": "^1.9.1"
+  }
+}
